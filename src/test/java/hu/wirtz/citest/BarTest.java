@@ -27,6 +27,6 @@ public class BarTest {
         throw new IllegalArgumentException("Foo error thrown");
 
 
-        // comment
+        // comment lol
     }
 }
